@@ -10,7 +10,7 @@ const currentRoute = useRoute();
   <div class="bg-white h-full">
     <nav class="h-full flex flex-col justify-between w-4/5 mx-auto">
       <RouterLink to="/">
-        <h1 class="mt-6 text-2xl font-bold text-center text-slate-500">Eroms</h1>
+        <h1 class="mt-6 text-2xl font-bold text-center text-slate-500">CineScope</h1>
         <div class="mt-4 grid place-content-center">
           <svg
             id="play"
